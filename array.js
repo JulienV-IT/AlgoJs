@@ -21,3 +21,10 @@ document.getElementById("char").innerHTML = string;
 document.getElementById("nombre").innerHTML = integer;
 document.getElementById("vraixfaux").innerHTML = bool;
 document.getElementById("celleci").innerHTML = variable;
+
+const jeanne = ["mange", "prend son bain", "met son pyj", "cale son biberon", "se brosse les dents", "se fait lire une histoire par Dada", "dort"]
+
+for (const jeanne = 0; jeanne < 7; jeanne++) 
+{
+text += "Jeanne " + i + "<br>";
+}
