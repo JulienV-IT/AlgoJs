@@ -53,4 +53,11 @@ document.getElementById("ta4").innerHTML = variable;
 
 
 
+var string1 = ["test", "test2"]
+var doubleArray = [2.02, 1.09];
+var sum = 0.0;
+for (i in doubleArray)
+    sum += doubleArray[i];
 
+document.getElementById("section_AA").innerHTML = string1[0] + "/" + string1[1];
+document.getElementById("section_BB").innerHTML = "Somme des valeurs: " + doubleArray[0] + ", " + doubleArray[1] + ": " +sum;
