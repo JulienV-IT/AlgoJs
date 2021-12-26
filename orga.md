@@ -8,8 +8,8 @@
 
 **Logique d'un programme, syntaxe et grammaire d'un language de programmation**
 
-- client/serveur
-- variables
+- client/serveur [nodejs](https://www.w3schools.com/nodejs/default.asp)
+- variables [les variables](https://javascript.info/variables)
 - classe, fonction [doc classes](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Classes)
 - Manipulation du Dom [doc dom](https://www.w3schools.com/whatis/whatis_htmldom.asp)
 - événementiel
